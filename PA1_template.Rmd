@@ -2,7 +2,7 @@
 title: "GC_RepData_PROJ1"
 author: "Guillermo Cuenca"
 date: "23 de junio de 2016"
-output: html_document
+output: GCPA1.html
 ---
 
 ## Introduction
